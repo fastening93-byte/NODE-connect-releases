@@ -1,0 +1,6 @@
+{
+  "versionCode": 12,
+  "versionName": "1.0.4",
+  "apkUrl": "https://raw.githubusercontent.com/fastening93-byte/NODE-connect-releases/main/NODE-connect.apk",
+  "changelog": "Добавлена проверка обновлений приложения через GitHub."
+}
