@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.2",
+  "versionCode": 16,
+  "versionName": "1.0.3",
   "apkUrl": "https://raw.githubusercontent.com/fastening93-byte/NODE-connect-releases/main/NODE-connect.apk",
-  "changelog": "Исправлена загрузка обновлений: собственный загрузчик APK, прогресс и автоматический запуск установки."
+  "changelog": "Тест обновления из приложения NODE connect."
 }
