@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.6",
-  "apkUrl": "https://raw.githubusercontent.com/fastening93-byte/NODE-connect-releases/main/NODE-connect-1.0.6-release.apk",
-  "sha256": "a2d36835f64835a44da7cca8ec03226eea1b18a9c3ede3c4b7679f88bf549c25",
-  "changelog": "Исправлены статус VPN, QR-сканер и интерфейс; добавлен WEB Proxy для Telegram."
+  "versionCode": 24,
+  "versionName": "1.0.8",
+  "apkUrl": "https://raw.githubusercontent.com/fastening93-byte/NODE-connect-releases/main/NODE-connect-1.0.8-release.apk",
+  "sha256": "b7c8128cd78bd9a651e64e218927381214f8350a1179e705f093f19df0f8c0fc",
+  "changelog": "Добавлена инструкция WEB Proxy с копированием сервера и ключа, уведомление о новой версии и улучшения интерфейса. Логика переподключения VPN не изменена."
 }
