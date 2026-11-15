@@ -1,0 +1,7 @@
+{
+  "versionCode": 26,
+  "versionName": "1.0.10",
+  "apkUrl": "https://raw.githubusercontent.com/fastening93-byte/NODE-connect-releases/main/NODE-connect-1.0.10-release.apk",
+  "sha256": "d5813b3701140ba3c31653faf25246388fb5556c4948d09aa88bed0d055ace4c",
+  "changelog": "Кабинет в приложении: вход через Telegram, просмотр тарифа и трафика, добавление VPN-конфигов из кабинета."
+}
